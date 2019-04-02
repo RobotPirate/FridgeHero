@@ -2,15 +2,6 @@
 
 FridgeHero created for ScopeSC Spring 2019.
 
-## Getting Started
+## Notes
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+I'm currently providing the Signing Certificate for the XCode project (you may need to sign it if it doesn't immediately work your iDevice). I also installed the Dart HTTP package because I think it'll be easier interfacing with an API than to use the SQLite plugin. I'm not sure why the default font is so small, but this can be changed via `ThemeData`.
